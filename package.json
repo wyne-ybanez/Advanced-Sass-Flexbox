@@ -30,6 +30,7 @@
   },
   "homepage": "https://github.com/wyne-ybanez/advanced-sass-flexbox#readme",
   "dependencies": {
+    "live-server": "^1.2.2",
     "node-sass": "^7.0.1",
     "sass": "^1.52.3"
   }
